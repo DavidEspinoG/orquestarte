@@ -1,0 +1,233 @@
+const recital = [
+  {
+    "Maestr@": "Diego Sánchez-Villa",
+    "Alumn@": "Luhana Daniela Leyva Ramos",
+    "Pieza": "Los payasos",
+    "Compositor": "Michael Aaron",
+    "Acompañamiento": "Sin acompañamiento",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "Presencial",
+    "Pago": "Pagado",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Diego Sánchez-Villa",
+    "Alumn@": "Luhana Daniela Leyva Ramos",
+    "Pieza": "Las Luciérnagas",
+    "Compositor": "Michael Aaron",
+    "Acompañamiento": "",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "",
+    "Pago": "",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Diego Sánchez-Villa",
+    "Alumn@": "Luhana Daniela Leyva Ramos",
+    "Pieza": "Bartók - tók - tók",
+    "Compositor": "Germán P. Tort",
+    "Acompañamiento": "",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "",
+    "Pago": "",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Diego Sánchez-Villa",
+    "Alumn@": "Fernanda Itzel Escobedo García",
+    "Pieza": "Danza de los tecuanes",
+    "Compositor": "M. M. Ponce",
+    "Acompañamiento": "Sin acompañamiento",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "Presencial",
+    "Pago": "Pendiente",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Diego Sánchez-Villa",
+    "Alumn@": "Fernanda Itzel Escobedo García",
+    "Pieza": "Canción de otoño",
+    "Compositor": "D. Kavalevsky",
+    "Acompañamiento": "",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "",
+    "Pago": "",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Diego Sánchez-Villa",
+    "Alumn@": "Fernanda Itzel Escobedo García",
+    "Pieza": "Minuet en Sol Myor",
+    "Compositor": "G. Böhm/Bach",
+    "Acompañamiento": "",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "",
+    "Pago": "",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Diego Sánchez-Villa",
+    "Alumn@": "Elena Gordillo Mendez",
+    "Pieza": "Arabesco",
+    "Compositor": "B. Müller",
+    "Acompañamiento": "Sin acompañamiento",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "Presencial",
+    "Pago": "Pagado",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Diego Sánchez-Villa",
+    "Alumn@": "Elena Gordillo Mendez",
+    "Pieza": "Mussette en Re Mayor",
+    "Compositor": "J. S. Bach",
+    "Acompañamiento": "",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "",
+    "Pago": "",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Diego Sánchez-Villa",
+    "Alumn@": "Lucía Elena Aldana Pereira",
+    "Pieza": "Estrellita",
+    "Compositor": "S. Suzuki",
+    "Acompañamiento": "",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "Presencial",
+    "Pago": "Pagado",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Diego Sánchez-Villa",
+    "Alumn@": "Lucía Elena Aldana Pereira",
+    "Pieza": "Ding Dong",
+    "Compositor": "Michael Aaron",
+    "Acompañamiento": "",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "",
+    "Pago": "",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Diego Sánchez-Villa",
+    "Alumn@": "Lucía Elena Aldana Pereira",
+    "Pieza": "Fantasmas de Media Noche",
+    "Compositor": "Michael Aaron",
+    "Acompañamiento": "",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "",
+    "Pago": "",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Diego Sánchez-Villa",
+    "Alumn@": "Lucía Elena Aldana Pereira",
+    "Pieza": "Don Ravel",
+    "Compositor": "Germán P. Tort",
+    "Acompañamiento": "",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "",
+    "Pago": "",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Diego Sánchez-Villa",
+    "Alumn@": "Luis Daniel Gonzales Martínez",
+    "Pieza": "Lightly Row",
+    "Compositor": "Canción folclórica alemana",
+    "Acompañamiento": "",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "Presencial",
+    "Pago": "Pagado",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Diego Sánchez-Villa",
+    "Alumn@": "Luis Daniel Gonzales Martínez",
+    "Pieza": "Andante",
+    "Compositor": "A. Diabelli",
+    "Acompañamiento": "",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "",
+    "Pago": "",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Diego Sánchez-Villa",
+    "Alumn@": "Luis Daniel Gonzales Martínez",
+    "Pieza": "Don Ravel",
+    "Compositor": "Germán P. Tort",
+    "Acompañamiento": "",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "",
+    "Pago": "",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Diego Sánchez-Villa",
+    "Alumn@": "Luis Daniel Gonzales Martínez",
+    "Pieza": "Bartók - tók - tók",
+    "Compositor": "Germán P. Tort",
+    "Acompañamiento": "",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "",
+    "Pago": "",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Lu-Yang Eduardo Puón Peláez",
+    "Alumn@": "Daniel Peña Gardel",
+    "Pieza": "Minuet en sol mayor",
+    "Compositor": "G. Böhm",
+    "Acompañamiento": "Sin acompañamiento",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "Presencial",
+    "Pago": "Pendiente",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Lu-Yang Eduardo Puón Peláez",
+    "Alumn@": "Javier Padilla Fischer",
+    "Pieza": "Minuet en sol mayor",
+    "Compositor": "J.S. Bach",
+    "Acompañamiento": "Sin acompañamiento",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "Presencial",
+    "Pago": "Pendiente",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Lu-Yang Eduardo Puón Peláez",
+    "Alumn@": "Luis Gerardo Balcázar",
+    "Pieza": "Aria en fa mayor",
+    "Compositor": "J. S. Bach",
+    "Acompañamiento": "Sin acompañamiento",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "Presencial",
+    "Pago": "Pendiente",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "Lu-Yang Eduardo Puón Peláez",
+    "Alumn@": "Victoria Gómez Fierro",
+    "Pieza": "Coral “Do as Thou will’st with me, O Lord!”",
+    "Compositor": "J. S. Bach",
+    "Acompañamiento": "Sin acompañamiento",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "Presencial",
+    "Pago": "Pendiente",
+    "Ensayo": ""
+  },
+  {
+    "Maestr@": "David Espino",
+    "Alumn@": "Lu-Yang Eduardo Puón Peláez",
+    "Pieza": "Andante sostenuto",
+    "Compositor": "F. Mendelssohn",
+    "Acompañamiento": "Sin acompañamiento",
+    "Link a partituras (si se requiere acompañamiento de piano)": "",
+    "Recital": "Presencial",
+    "Pago": "No aplica",
+    "Ensayo": ""
+  }
+]
