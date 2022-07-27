@@ -40,6 +40,16 @@ const recital = [
     "Ensayo": ""
   },
   {
+    "Maestr@": "Daniel Fajardo",
+    "Alumn@": "Javier Ruiz Castro",
+    "Pieza": "Before you",
+    "Compositor": "L. Capaldi",
+    "Acompañamiento": "Sin acompañamiento",
+    "Recital": "Presencial",
+    "Pago": "Pagado",
+    "Ensayo": ""
+  },
+  {
     "Maestr@": "David Espino",
     "Alumn@": "Fausto Azael Carballo Lucero",
     "Pieza": "The Fairy Court",
