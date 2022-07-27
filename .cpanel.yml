@@ -1,0 +1,15 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/yedrg1fmmu98/public_html/
+    - /bin/cp yucatan.html $DEPLOYPATH
+    - /bin/cp virtuales.html $DEPLOYPATH
+    - /bin/cp recitales.html $DEPLOYPATH
+    - /bin/cp presenciales.html $DEPLOYPATH
+    - /bin/cp maestros.html $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp -R recitales $DEPLOYPATH
+    - /bin/cp -R img $DEPLOYPATH
+    - /bin/cp -R data $DEPLOYPATH
+    - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp style.css $DEPLOYPATH
