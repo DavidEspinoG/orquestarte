@@ -15,8 +15,8 @@ html {
     box-sizing: inherit;
 }
 .contenedor {
-    max-width: 120rem;
-    width: 90%;
+    max-width: 90%;
+    width: 90;
     margin: 0 auto;
 }
 a {
@@ -515,9 +515,14 @@ img {
     align-items: center;
 }
 .repertorio{
-    width: 40rem;
+    width: 45rem;
     display:flex;
     justify-content: space-around;
+}
+@media (max-width: 400px) {
+    .repertorio {
+        width: 35rem;
+    }
 }
 .alumno, .pieza, .compositor, .maestro {
     font-family: var(--fuenteOrquestarte);
@@ -538,3 +543,6 @@ img {
         white-space: -moz-pre-wrap;
         white-space: -o-pre-wrap;
 }
+/* .participacion {
+    margin
+} */

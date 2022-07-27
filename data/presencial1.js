@@ -2,7 +2,7 @@ const recital = [
   {
     "Maestr@": "Ulises Juarez",
     "Alumn@": "Mateo Joab Carballo Lucero",
-    "Pieza": "Perpetual motion (Tema y variación)",
+    "Pieza": "Perpetual motion",
     "Compositor": "S. Suzuki",
     "Acompañamiento": "Piano",
     "Recital": "Presencial",
