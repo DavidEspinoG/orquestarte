@@ -1,16 +1,5 @@
 const recital = [
   {
-    "Maestr@": "David Espino",
-    "Alumn@": "Lu-Yang Eduardo Puón Peláez",
-    "Pieza": "Andante sostenuto Op. 72 #2\n\nCanción sin palabras Op. 19 #3",
-    "Compositor": "F. Mendelssohn\n\nF. Mendelssohn",
-    "Acompañamiento": "Sin acompañamiento",
-    "Link a partituras (si se requiere acompañamiento de piano)": "",
-    "Recital": "Presencial",
-    "Pago": "No aplica",
-    "Ensayo": ""
-  },
-  {
     "Maestr@": "Lu-Yang Eduardo Puón Peláez",
     "Alumn@": "Daniel Peña Gardel",
     "Pieza": "Minuet en sol mayor",
@@ -33,25 +22,14 @@ const recital = [
     "Ensayo": ""
   },
   {
-    "Maestr@": "Lu-Yang Eduardo Puón Peláez",
-    "Alumn@": "Luis Gerardo Balcázar",
-    "Pieza": "Aria en fa mayor",
-    "Compositor": "J. S. Bach",
+    "Maestr@": "David Espino",
+    "Alumn@": "Lu-Yang Eduardo Puón Peláez",
+    "Pieza": "Andante sostenuto Op. 72 #2\n\nCanción sin palabras Op. 19 #3",
+    "Compositor": "F. Mendelssohn\n\nF. Mendelssohn",
     "Acompañamiento": "Sin acompañamiento",
     "Link a partituras (si se requiere acompañamiento de piano)": "",
     "Recital": "Presencial",
-    "Pago": "Pendiente",
-    "Ensayo": ""
-  },
-  {
-    "Maestr@": "Lu-Yang Eduardo Puón Peláez",
-    "Alumn@": "Victoria Gómez Fierro",
-    "Pieza": "“Do as Thou will’st with me, O Lord!”",
-    "Compositor": "J. S. Bach",
-    "Acompañamiento": "Sin acompañamiento",
-    "Link a partituras (si se requiere acompañamiento de piano)": "",
-    "Recital": "Presencial",
-    "Pago": "Pendiente",
+    "Pago": "No aplica",
     "Ensayo": ""
   },
   {
