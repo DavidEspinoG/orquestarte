@@ -55,6 +55,16 @@ const recital = [
     "Ensayo": ""
   },
   {
+    "Maestr@": "David Espino",
+    "Alumn@": "Adolfo Paulino Gomez Avilés",
+    "Pieza": "Swans on the lake\n\nThe fairies harp",
+    "Compositor": "J. Thompson\n\nJ. Thompson",
+    "Acompañamiento": "Sin acompañamiento",
+    "Recital": "Presencial",
+    "Pago": "Pendiente",
+    "Ensayo": ""
+  },
+  {
     "Maestr@": "Diego Sánchez-Villa",
     "Alumn@": "Luhana Daniela Leyva Ramos",
     "Pieza": "Los payasos\n\nLas Luciérnagas\n\nBartók - tók - tók",

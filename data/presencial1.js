@@ -30,16 +30,6 @@ const recital = [
     "Ensayo": ""
   },
   {
-    "Maestr@": "David Espino",
-    "Alumn@": "Adolfo Paulino Gomez Avilés",
-    "Pieza": "Swans on the lake",
-    "Compositor": "J. Thompson",
-    "Acompañamiento": "Sin acompañamiento",
-    "Recital": "Presencial",
-    "Pago": "Pendiente",
-    "Ensayo": ""
-  },
-  {
     "Maestr@": "Daniel Fajardo",
     "Alumn@": "Javier Ruiz Castro",
     "Pieza": "Before you",
@@ -53,16 +43,6 @@ const recital = [
     "Maestr@": "David Espino",
     "Alumn@": "Fausto Azael Carballo Lucero",
     "Pieza": "The Fairy Court",
-    "Compositor": "J. Thompson",
-    "Acompañamiento": "Sin acompañamiento",
-    "Recital": "",
-    "Pago": "",
-    "Ensayo": ""
-  },
-  {
-    "Maestr@": "David Espino",
-    "Alumn@": "Adolfo Paulino Gomez Avilés",
-    "Pieza": "The Fairies harp",
     "Compositor": "J. Thompson",
     "Acompañamiento": "Sin acompañamiento",
     "Recital": "",
