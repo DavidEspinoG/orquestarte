@@ -9,6 +9,14 @@ const recital = [
   },
   {
     "Maestr@": "Mario Caudillo",
+    "Alumn@": "Jimena Nava Nosti",
+    "Pieza": "Omaggio a Debussy",
+    "Compositor": "Leo Brouwer",
+    "Acompañamiento": "Sin acompañamiento",
+    "Link a partituras (si se requiere acompañamiento de piano)": ""
+  },
+  {
+    "Maestr@": "Mario Caudillo",
     "Alumn@": "Juan Pablo Buzo Cáceres",
     "Pieza": "El grillo",
     "Compositor": "Simone Iannarelli",
