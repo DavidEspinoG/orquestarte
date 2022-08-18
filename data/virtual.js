@@ -32,14 +32,6 @@ const recital = [
     "Link a partituras (si se requiere acompañamiento de piano)": ""
   },
   {
-    "Maestr@": "Mario Caudillo",
-    "Alumn@": "Juan Pablo Buzo Cáceres",
-    "Pieza": "Dans la brugiere",
-    "Compositor": "Simone Iannarelli",
-    "Acompañamiento": "Sin acompañamiento",
-    "Link a partituras (si se requiere acompañamiento de piano)": ""
-  },
-  {
     "Maestr@": "Elena García",
     "Alumn@": "Miguel Ángel Buzo Cáceres",
     "Pieza": "London Bridge",
@@ -80,7 +72,7 @@ const recital = [
     "Link a partituras (si se requiere acompañamiento de piano)": ""
   },
   {
-    "Maestr@": "Mario Caudillo",
+    "Maestr@": "David Espino",
     "Alumn@": "Victor Magallón Saavedra",
     "Pieza": "Corre riachuelo",
     "Compositor": "J. Thompson",
