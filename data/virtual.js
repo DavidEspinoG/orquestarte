@@ -9,34 +9,10 @@ const recital = [
   },
   {
     "Maestr@": "Mario Caudillo",
-    "Alumn@": "Jimena Nava Nosti",
-    "Pieza": "Omaggio a Debussy",
-    "Compositor": "Leo Brouwer",
-    "Acompañamiento": "Sin acompañamiento",
-    "Link a partituras (si se requiere acompañamiento de piano)": ""
-  },
-  {
-    "Maestr@": "Mario Caudillo",
     "Alumn@": "Juan Pablo Buzo Cáceres",
     "Pieza": "El grillo",
     "Compositor": "Simone Iannarelli",
     "Acompañamiento": "Sin acompañamiento",
-    "Link a partituras (si se requiere acompañamiento de piano)": ""
-  },
-  {
-    "Maestr@": "Elena García",
-    "Alumn@": "Alejandra Guzmán Leyva",
-    "Pieza": "Amazing Grace",
-    "Compositor": "American Hym",
-    "Acompañamiento": "Podrían añadirle el piano ustedes? Les hago llegar la melodía, por favor ❤️",
-    "Link a partituras (si se requiere acompañamiento de piano)": ""
-  },
-  {
-    "Maestr@": "Mario Caudillo",
-    "Alumn@": "Jimena Nava Nosti",
-    "Pieza": "Omaggio a Sor",
-    "Compositor": "Leo Brouwer",
-    "Acompañamiento": "",
     "Link a partituras (si se requiere acompañamiento de piano)": ""
   },
   {
@@ -45,6 +21,14 @@ const recital = [
     "Pieza": "La settima luna",
     "Compositor": "Simone Iannarelli",
     "Acompañamiento": "",
+    "Link a partituras (si se requiere acompañamiento de piano)": ""
+  },
+  {
+    "Maestr@": "Mario Caudillo",
+    "Alumn@": "Juan Pablo Buzo Cáceres",
+    "Pieza": "Dans la brugiere",
+    "Compositor": "Simone Iannarelli",
+    "Acompañamiento": "Sin acompañamiento",
     "Link a partituras (si se requiere acompañamiento de piano)": ""
   },
   {
@@ -58,26 +42,10 @@ const recital = [
   {
     "Maestr@": "Mario Caudillo",
     "Alumn@": "Juan Pablo Buzo Cáceres",
-    "Pieza": "Dans la Brughiére",
+    "Pieza": "Dans la Brugiere",
     "Compositor": "Simone Iannarelli",
     "Acompañamiento": "",
     "Link a partituras (si se requiere acompañamiento de piano)": ""
-  },
-  {
-    "Maestr@": "Elena García",
-    "Alumn@": "Alejandra Guzmán Leyva",
-    "Pieza": "Largo (from \"new world\" Symphony",
-    "Compositor": "Antonin Dvorak",
-    "Acompañamiento": "Flauta",
-    "Link a partituras (si se requiere acompañamiento de piano)": ""
-  },
-  {
-    "Maestr@": "Hebert Romero Grande",
-    "Alumn@": "Marvin Richter Muñoz",
-    "Pieza": "Indian Concertino. 1er y 2do movimiento",
-    "Compositor": "George Perlman",
-    "Acompañamiento": "Piano",
-    "Link a partituras (si se requiere acompañamiento de piano)": "https://drive.google.com/folderview?id=1FN3A_FnK_18ALXtWlTvc7eQGc2wHcQLs"
   },
   {
     "Maestr@": "David Espino",
@@ -105,14 +73,6 @@ const recital = [
   },
   {
     "Maestr@": "Mario Caudillo",
-    "Alumn@": "Paola Castillo Torres",
-    "Pieza": "Skating on ice",
-    "Compositor": "Simone Iannarelli",
-    "Acompañamiento": "Sin acompañamiento",
-    "Link a partituras (si se requiere acompañamiento de piano)": ""
-  },
-  {
-    "Maestr@": "Mario Caudillo",
     "Alumn@": "Victor Magallón Saavedra",
     "Pieza": "Corre riachuelo",
     "Compositor": "J. Thompson",
@@ -125,14 +85,6 @@ const recital = [
     "Pieza": "Auld Lang Syne",
     "Compositor": "Scottish Air",
     "Acompañamiento": "Flauta",
-    "Link a partituras (si se requiere acompañamiento de piano)": ""
-  },
-  {
-    "Maestr@": "Mario Caudillo",
-    "Alumn@": "Paola Castillo Torres",
-    "Pieza": "Le rêve du Carillon",
-    "Compositor": "Simone Iannarelli",
-    "Acompañamiento": "",
     "Link a partituras (si se requiere acompañamiento de piano)": ""
   },
   {
@@ -158,5 +110,13 @@ const recital = [
     "Compositor": "M. Ruiz Armengol",
     "Acompañamiento": "Sin acompañamiento",
     "Link a partituras (si se requiere acompañamiento de piano)": ""
-  }
+  },
+  {
+    "Maestr@": "Hebert Romero Grande",
+    "Alumn@": "Marvin Richter Muñoz",
+    "Pieza": "Indian Concertino. 1er y 2do movimiento",
+    "Compositor": "George Perlman",
+    "Acompañamiento": "Piano",
+    "Link a partituras (si se requiere acompañamiento de piano)": "https://drive.google.com/folderview?id=1FN3A_FnK_18ALXtWlTvc7eQGc2wHcQLs"
+  },
 ]
